@@ -49,4 +49,10 @@ Though we hope that we never have to invoke this policy, we believe that having 
 License and attribution
 This policy is licensed under the Creative Commons Zero license. This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
+# Shortened "Don't be a jerk" policy
+This "Don't be a jerk" policy is a shortened, more casual version of the longer Anti-Harassment policy. This blurb can be used in lieu of the longer policy, or can link to the longer policy when placed in group and event materials. 
+ 
+GDG [Chapter name] prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+
+If someone is bothering you, please tell [GDG Organizers] immediately and they will take care of it. We want to maintain GDG [Chapter name]’s awesomeness.
  
